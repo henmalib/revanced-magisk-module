@@ -8,19 +8,19 @@ parallel-jobs = 1
 # dont build on gh actions (https://github.com/j-hc/revanced-magisk-module/issues/554)
 
 [Reddit]
-build-mode = "apk"
+build-mode = "module"
 arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [Twitter]
-build-mode = "apk"
+build-mode = "module"
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [YouTube]
-build-mode = "apk"
+build-mode = "module"
 arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
