@@ -20,10 +20,11 @@ uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 included-patches = "'SIM spoof'"
 
 [Twitch]
-build-mode = "module"
-apkmirror-dpi = "120-640dpi"
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+apkmirror-dpi = "120-640dpi"
+build-mode = "module"
 
 [Twitter]
 build-mode = "module"
