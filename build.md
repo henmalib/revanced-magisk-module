@@ -1,6 +1,6 @@
 Reddit (arm64-v8a): 2024.17.0  
 Reddit (arm-v7a): 2024.17.0  
-Twitter: 10.80.1-release.0  
+Twitter: 10.82.0-release.0  
 YouTube (arm64-v8a): 19.47.53  
 YouTube (arm-v7a): 19.47.53  
 
@@ -10,5 +10,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.12.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.12.0)  
+Patches: ReVanced/patches-5.13.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.13.0)  
