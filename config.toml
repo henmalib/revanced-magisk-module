@@ -29,6 +29,9 @@ patcher-args = "-OdarkThemeBackgroundColor=@android:color/system_neutral1_900 -O
 
 
 [Twitch]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 build-mode = "module"
 apkmirror-dpi = "120-640dpi"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch"
+uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+apkmirror-dpi = "120-640dpi"
+build-mode = "module"
