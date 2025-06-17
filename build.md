@@ -1,5 +1,7 @@
 Reddit (arm64-v8a): 2024.17.0  
 Reddit (arm-v7a): 2024.17.0  
+Spotify: 9.0.56.106  
+Twitter: 10.86.0-release.0  
 YouTube (arm64-v8a): 20.12.46  
 YouTube (arm-v7a): 20.12.46  
 
