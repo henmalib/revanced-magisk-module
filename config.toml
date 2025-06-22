@@ -45,3 +45,9 @@ build-mode = "module"
 apkmirror-dpi = "120-640dpi"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+
+[Protonmail]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email/"
+build-mode = "module"
+
+
