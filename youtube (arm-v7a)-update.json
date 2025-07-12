@@ -1,6 +1,6 @@
 {
-  "version": "v20.13.41 (patches 5.31.1)",
-  "versionCode": 35,
-  "zipUrl": "https://github.com/henmalib/revanced-magisk-module/releases/download/35/youtube-revanced-magisk-v20.13.41-arm-v7a.zip",
+  "version": "v20.13.41 (patches dev.2)",
+  "versionCode": 36,
+  "zipUrl": "https://github.com/henmalib/revanced-magisk-module/releases/download/36/youtube-revanced-magisk-v20.13.41-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/henmalib/revanced-magisk-module/update/build.md"
 }
