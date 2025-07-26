@@ -1,6 +1,6 @@
 {
-  "version": "v9.0.64.586 (patches dev.4)",
-  "versionCode": 41,
-  "zipUrl": "https://github.com/henmalib/revanced-magisk-module/releases/download/41/spotify-revanced-magisk-v9.0.64.586-arm64-v8a.zip",
+  "version": "v9.0.66.634 (patches dev.5)",
+  "versionCode": 42,
+  "zipUrl": "https://github.com/henmalib/revanced-magisk-module/releases/download/42/spotify-revanced-magisk-v9.0.66.634-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/henmalib/revanced-magisk-module/update/build.md"
 }

@@ -1,7 +1,7 @@
 Protonmail: 4.14.1  
 Reddit (arm64-v8a): 2024.17.0  
 Reddit (arm-v7a): 2024.17.0  
-Spotify: 9.0.64.586  
+Spotify: 9.0.66.634  
 Twitter: 10.86.0-release.0  
 YouTube (arm64-v8a): 20.13.41  
 YouTube (arm-v7a): 20.13.41  
@@ -12,5 +12,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.32.0-dev.4.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.32.0-dev.4)  
+Patches: ReVanced/patches-5.32.0-dev.5.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.32.0-dev.5)  
