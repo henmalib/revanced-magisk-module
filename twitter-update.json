@@ -1,6 +1,6 @@
 {
-  "version": "v10.86.0-release.0 (patches dev.7)",
-  "versionCode": 48,
-  "zipUrl": "https://github.com/henmalib/revanced-magisk-module/releases/download/48/twitter-revanced-magisk-v10.86.0-release.0-all.zip",
+  "version": "v10.86.0-release.0 (patches dev.13)",
+  "versionCode": 50,
+  "zipUrl": "https://github.com/henmalib/revanced-magisk-module/releases/download/50/twitter-revanced-magisk-v10.86.0-release.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/henmalib/revanced-magisk-module/update/build.md"
 }
