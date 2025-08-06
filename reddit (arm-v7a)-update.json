@@ -1,6 +1,6 @@
 {
-  "version": "v2024.17.0 (patches dev.13)",
-  "versionCode": 50,
-  "zipUrl": "https://github.com/henmalib/revanced-magisk-module/releases/download/50/reddit-revanced-magisk-v2024.17.0-arm-v7a.zip",
+  "version": "v2024.17.0 (patches 5.33.0)",
+  "versionCode": 51,
+  "zipUrl": "https://github.com/henmalib/revanced-magisk-module/releases/download/51/reddit-revanced-magisk-v2024.17.0-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/henmalib/revanced-magisk-module/update/build.md"
 }
