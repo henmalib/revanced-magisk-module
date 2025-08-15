@@ -1,6 +1,6 @@
 {
-  "version": "v4.15.0 (patches dev.7)",
-  "versionCode": 55,
-  "zipUrl": "https://github.com/henmalib/revanced-magisk-module/releases/download/55/protonmail-revanced-magisk-v4.15.0-all.zip",
+  "version": "v7.0.4 (patches dev.8)",
+  "versionCode": 56,
+  "zipUrl": "https://github.com/henmalib/revanced-magisk-module/releases/download/56/protonmail-revanced-magisk-v7.0.4-all.zip",
   "changelog": "https://raw.githubusercontent.com/henmalib/revanced-magisk-module/update/build.md"
 }
